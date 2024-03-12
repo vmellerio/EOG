@@ -1,0 +1,15 @@
+              precision    recall  f1-score   support
+
+       Blink       0.86      0.35      0.50      2772
+      Bottom       0.41      0.46      0.43      1826
+ Bottom-Left       0.38      0.61      0.47      1316
+Bottom-Right       0.63      0.46      0.53      1316
+        Left       0.55      0.47      0.51      1941
+       Right       0.43      0.57      0.49      1692
+         Top       0.60      0.49      0.53      2006
+    Top-Left       0.38      0.47      0.42      1196
+   Top-Right       0.34      0.55      0.42      1210
+
+    accuracy                           0.48     15275
+   macro avg       0.51      0.49      0.48     15275
+weighted avg       0.54      0.48      0.48     15275
